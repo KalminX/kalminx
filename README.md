@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalmin</h1>
-<h3 align="center">The tech nomad from the northern Air Temple</h3>
+<h3 align="center">A tech nomad from the northern Air Temple</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalminx&label=Profile%20views&color=0e75b6&style=flat" alt="kalminx" /> </p>
 
