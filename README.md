@@ -1,33 +1,73 @@
-<h1 align="center">Hi 👋, I'm Kalmin</h1>
-<h3 align="center">A tech nomad from the northern Air Temple</h3>
+<div align="center">
+  <h1>Kalmin</h1>
+  <p><strong>Founder & Lead Systems Architect at Kalmitech Technologies</strong></p>
+  <p>Building production software systems, distributed infrastructure, and multi-tenant platforms.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalminx&label=Profile%20views&color=0e75b6&style=flat" alt="kalminx" /> </p>
+  <p>
+    <a href="https://portfolio.kalmitech.app">
+      <img src="https://img.shields.io/badge/Portfolio-portfolio.kalmitech.app-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:admin@kalmitech.app">
+      <img src="https://img.shields.io/badge/Official_Email-admin@kalmitech.app-0f172a?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Kalmitech" />
+    </a>
+    <a href="https://linkedin.com/in/numerousoriabure/">
+      <img src="https://img.shields.io/badge/LinkedIn-numerousoriabure-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/kaldtechtitan">
+      <img src="https://img.shields.io/badge/Twitter-@kaldtechtitan-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+  </p>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalminx" alt="kalminx" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/kaldtechtitan" target="blank"><img src="https://img.shields.io/twitter/follow/kaldtechtitan?logo=twitter&style=for-the-badge" alt="kaldtechtitan" /></a> </p>
+### About
 
-- 👨‍💻 All of my projects are available at [---0---](---0---)
+I am the Founder and Lead Systems Architect at **Kalmitech Technologies**. I design, build, and deploy production software systems that solve real operational problems—ranging from self-hosted container orchestration engines and multi-tenant educational platforms to asynchronous e-commerce dispatchers and automated document compilers.
 
-- 📝 I regularly write articles on [---0---](---0---)
+- **Primary Portfolio**: [portfolio.kalmitech.app](https://portfolio.kalmitech.app/)
+- **Core Focus**: Production Backends, Systems Architecture, DevOps & Self-Hosted Infrastructure, Multi-Tenant SaaS
+- **Primary Contact**: `admin@kalmitech.app`
+- **Secondary Contact**: `noriabure@gmail.com`
 
-- 💬 Ask me about **C, Python, Solidity**
+---
 
-- 📫 How to reach me **noriabure@gmail.com**
+### Featured Production Systems & Startups
 
-- 📄 Know about my experiences [---0---](---0---)
+All systems below are actively operated in production by Kalmitech:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaldtechtitan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaldtechtitan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/numerousoriabure/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numerousoriabure/" height="30" width="40" /></a>
-</p>
+| System | Live Deployment | Core Architecture & Stack | Description |
+|---|---|---|---|
+| **KalmiDeploy** | [deploy.kalmitech.app](https://deploy.kalmitech.app/) | Django, Docker Socket, Celery, Redis, Nginx | Self-hosted PaaS and container orchestration plane for independent Linux VPS instances. Real-time telemetry, automated Git rolling deploys, and remote volume backups. |
+| **EduSphere** | [edusphere.kalmitech.app](https://edusphere.kalmitech.app/) | Django, PostgreSQL 16, Redis, WeasyPrint | Multi-tenant educational management operating system with conflict-free timetable scheduling, batch attendance registers, and continuous assessment broadsheets. |
+| **HappyBakes** | [happybakes.kalmitech.app](https://happybakes.kalmitech.app/) | Django, PostgreSQL, Celery, RabbitMQ | Artisanal bakery commerce platform featuring real-time inventory reservation, customizable tier orders, and asynchronous kitchen dispatch queues. |
+| **AutoDoc** | [autodoc.kalmitech.app](https://autodoc.kalmitech.app/) | Flask, WeasyPrint, SQLite, CSS Paged Media | Automated document generation microservice compiling structured business data and dynamic invoices into print-ready vectorized PDFs with SHA-256 integrity hashing. |
+| **Kalmitech Portfolio** | [portfolio.kalmitech.app](https://portfolio.kalmitech.app/) | Django 5.1, Tailwind CSS, WebP Pipeline, Docker | Centralized engineering showcase and project-publishing platform with automated WebP image optimization and high-resolution interface walkthroughs. |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalminx&show_icons=true&locale=en&layout=compact" alt="kalminx" /></p>
+### Technologies & Infrastructure
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalminx&show_icons=true&locale=en" alt="kalminx" /></p>
+#### Backend & Core Systems
+`Python` • `Django` • `Flask` • `C` • `PostgreSQL` • `Redis` • `RabbitMQ` • `Celery`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalminx&" alt="kalminx" /></p>
+#### DevOps, Cloud & Runtime
+`Linux (Ubuntu/Debian)` • `Docker` • `Docker Compose` • `Nginx` • `Bash` • `Git` • `WeasyPrint` • `Let's Encrypt / SSL`
+
+#### Frontend & Interfaces
+`TypeScript` • `JavaScript` • `Tailwind CSS` • `HTML5 / CSS3` • `HTMX`
+
+---
+
+### Contact & Connect
+
+- **Official Inquiries**: [admin@kalmitech.app](mailto:admin@kalmitech.app)
+- **Direct Email**: [noriabure@gmail.com](mailto:noriabure@gmail.com)
+- **LinkedIn**: [linkedin.com/in/numerousoriabure](https://www.linkedin.com/in/numerousoriabure/)
+- **Twitter / X**: [@kaldtechtitan](https://twitter.com/kaldtechtitan)
+- **Engineering Showcase**: [portfolio.kalmitech.app](https://portfolio.kalmitech.app/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalminx&show_icons=true&theme=tokyonight&hide_border=true" alt="Kalmin GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalminx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
